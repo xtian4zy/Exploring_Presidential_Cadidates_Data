@@ -1,0 +1,19 @@
+Beginner Data Analysis Walkthrough Project
+
+Project Description: 
+Your have been assigned to analyze the  
+presidential candidate data published by Statisense and 
+provide insights while answering some fundamental questions.
+
+1. INEC needs to prepare ballot sheets and wants to know the paper dimension
+to use based on name length. Furnuish them with the following:
+(a) What is the highest and shortest name of candidates on the list?
+2. How many candidates are from each region of the country?
+3. Which region has the highest and least number of presidential candidates?
+4. The candidate with the longest name is from which region?
+5. The candidate with the shortest name is from which region?
+6. How many candidate's name has a length less than 10?
+7. Which are the top 5 candidates based on name length?
+8. Which are the bottom 5 candidates based on name length?
+9. Who is the only candidate from the NW region?
+10. Sort the record based on names.
